@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Umar
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning C
 - 💞️ I’m looking to collaborate on GitHub
 - 📫 You can contact me at https://facebook.com/zadx11
